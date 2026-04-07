@@ -1,0 +1,12 @@
+.container {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: #cd67fd;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  width: auto;
+  height: auto;
+  border-radius: 15px;
+}
